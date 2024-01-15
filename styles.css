@@ -1,0 +1,145 @@
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.nunito-sans {
+    font-family: 'Nunito-Sans', sans-serif;
+    font-weight: 400;
+}
+
+.light {
+    font-weight: 300;
+}
+
+.regular {
+    font-weight: 400;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.container {
+    border: 2px solid #ccc;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.container.header {
+    border: none;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    margin: 10px auto;
+}
+
+h1.title {
+    color: #13505B;
+}
+
+h3 {
+    font-family: 'Roboto',sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #040404;
+    margin: 0;
+    padding: 10px 0;
+}
+
+h2 {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    color: #040404;
+    margin: 20px auto;
+}
+
+.colors-container {
+    width: 100%;
+}
+
+.color-type {
+    display: inline-block;
+    width: 19%;
+    margin: 10px auto;
+    min-height: auto;
+}
+
+.deep-cyan {
+    background-color: #119DA4;
+    color: #000;
+}
+
+.midnight-blue {
+    background-color: #0C7489;
+    color: #fff;
+}
+
+.midnight-green {
+    background-color: #13505B;
+    color: #fff;
+}
+
+.classy-black {
+    background-color: #040404;
+    color: #fff;
+}
+
+.creamy-gray {
+    background-color: #D7D9CE;
+    color: #000;
+}
+
+p {
+    font-family: 'Nunito Sans',sans-serif;
+    font-size: 16px;
+    margin: 10px auto;
+}
+
+.fonts-container {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.font-label {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.font-type {
+    padding: 10px 20px;
+    text-align: left;
+    width: 30%;
+    display: inline-block;
+    background-color: #D7D9CE;
+    height: auto;
+}
+
+ul {
+    display: inline-block;
+}
+
+li {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+    text-align: left;
+}
